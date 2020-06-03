@@ -76,7 +76,7 @@ class Product extends React.Component {
             </p>
           </div>
           <div className='extra'>
-            <span>Submitted by:</span>
+            <span>test by:</span>
             <img
               className='ui avatar image'
               src={this.props.submitterAvatarUrl}
